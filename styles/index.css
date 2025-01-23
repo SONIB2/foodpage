@@ -19,3 +19,7 @@
 .wish-list-cnt:hover i {
     transform: scale(1.2);
 }
+.food-card {
+    margin-bottom: 20px;
+    display: flex;
+}
